@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable arrow-body-style */
 module.exports = {
   up: (queryInterface, Sequelize) => {
